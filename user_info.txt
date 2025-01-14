@@ -1,0 +1,5 @@
+my_name = 'Oluwatoyin Ariyo'
+city = 'London'
+hobbies = ['gaming', 'watching films', 'playing with AI models'] 
+
+my_text = 'My name is {name}. I live in {city} and my hobbies are {hobbies[:3]} and diffusion models

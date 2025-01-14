@@ -1,0 +1,4 @@
+my_name = Oluwatoyin Ariyo
+city = London
+['gaming', 'watching films', 'playing with AI models']
+My name is {name}. I live in {city} and my hobbies are {hobbies[:3]} and diffusion models
